@@ -1,6 +1,6 @@
 # fast_job
 
-A new Flutter project.
+Job search platform in Myanmar
 
 ## Getting Started
 
